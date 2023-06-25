@@ -52,7 +52,7 @@ while True:
         grey_first_frame = grey_second_frame
 
     # press key 'q' to stop the video
-    if cv.waitKey(frame_rate) == ord('q'):
+    if cv.waitKey(int(1000/frame_rate)) == ord('q'):
         break
 
 video.release()
