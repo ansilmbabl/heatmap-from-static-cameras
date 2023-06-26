@@ -1,2 +1,2 @@
 # heatmap-from-static-cameras
-heatmap of moving objects in static camera
+heatmap of moving objects from a static camera
