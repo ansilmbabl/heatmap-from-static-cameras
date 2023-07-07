@@ -13,6 +13,9 @@ cretaing heatmap for moving objects from a static camera
 6. applying colormap
 7. adding colormap to the output
 
+## output
+![](images/output.png)
+
 ## Contact
 📫 Reach me via [linkedIn](inkedin.com/in/ansil-m-b-2b14b9194/) <br>
 📧 Mail me at ansilproabl@gmail.com
