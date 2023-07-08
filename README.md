@@ -10,7 +10,7 @@ cretaing heatmap for moving objects from a static camera
 3. taking difference of the consecutive frames using a while loop
 4. removing noises
 5. applying the difference on heatmap and noramilizing it 
-6. applying colormap
+6. applying [colormap](https://docs.opencv.org/3.4/d3/d50/group__imgproc__colormap.html)
 7. adding colormap to the output
 
 ## output
