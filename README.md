@@ -13,7 +13,7 @@ A simple project on cretaing heatmap for moving objects from a static camera
 6. applying [colormap](https://docs.opencv.org/3.4/d3/d50/group__imgproc__colormap.html)
 7. adding colormap to the output
 
-## output
+## Output
 ![](images/output.png)
 
 ## Contact
