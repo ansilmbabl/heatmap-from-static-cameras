@@ -1,6 +1,6 @@
 # Heatmap using OpenCV and Python
 
-A simple project on cretaing heatmap for moving objects from a static camera
+A simple project on creating heatmap of moving objects from a static camera using python and opencv
 
 ![](images/heatmap1.png)
 
